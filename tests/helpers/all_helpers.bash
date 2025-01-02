@@ -1,4 +1,4 @@
-bats_require_minimum_version 1.11.0
+bats_require_minimum_version 1.10.0
 
 load helpers/assertion_helpers.bash
 
